@@ -1,4 +1,8 @@
 # Checkers
+
+Implemented a Command Line Interface (CLI) based board game in C.
+
+## Installation
 Please clone the repository and execute the following commands to run the game: 
 
 ```
