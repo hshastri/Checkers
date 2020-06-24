@@ -11,3 +11,8 @@ cd Freedom;
 sudo gcc -0 main main.c;
 ./main
 ```
+
+## Game Demo
+
+This is how the game looks like:
+<img src="CheckersDemo.png">
